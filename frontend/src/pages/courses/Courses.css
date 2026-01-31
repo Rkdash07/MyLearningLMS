@@ -68,7 +68,7 @@
   padding-top: 56.25%;
   background-size: cover;
   background-position: center;
-  background-color: #020617;
+  background-color: #e8e9ef;
 }
 
 .card-body {
@@ -80,6 +80,7 @@
 
 .card-body h3 {
   font-size: 0.98rem;
+  color: #bbf7d0;
 }
 
 .muted {
